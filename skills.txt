@@ -1,0 +1,13 @@
+skills : 
+basic theory
+SDLC, STLC
+HTTP
+JSON
+XML
+API
+Postman
+Charles
+Fiddler
+Dev Tools
+SQL
+
